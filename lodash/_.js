@@ -1,4 +1,8 @@
-const _ = {};
+const _ = {
+    clamp(number, lower, upper) {
+
+    }
+};
 
 
 
